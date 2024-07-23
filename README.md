@@ -1,4 +1,4 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abyssangel4&exclude_repo=github-readme-stats,anuraghazra.github.io)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=abyssangel4&show_icons=true&theme=radical)
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://discord.gg/https://discord.gg/EWySwubm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/EWySwubm" height="30" width="40" /></a>
